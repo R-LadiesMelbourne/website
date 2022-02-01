@@ -1,0 +1,41 @@
+name: "website"
+title: "R-Ladies Melbourne Inc"
+description: |
+  R-Ladies Melbourne Inc website
+theme: rladiesmelb.css
+output_dir: "_site"
+base_url: /
+preview: img/rladieslogo-koala-hex.png
+favicon: img/rladieslogo-koala-hex.png
+twitter:
+  creator: "@RLadiesMelb"
+collections:
+  events:
+    categories: false
+    categories_metadata: false
+    authors_metadata: false
+    feed_items_max: 5 
+    share: [twitter, linkedin]
+    custom: twitter.html
+navbar:
+  logo:
+    image: img/rladieslogo-koala-hex.png
+  search: false
+  right:
+    - icon: fa-home
+      href: index.html
+    - text: "Our Committee"
+      href: committee.html
+    - text: "Events"
+      href: events.html
+    - icon: fab fa-github
+      href: https://github.com/R-LadiesMelbourne
+    - icon: fab fa-twitter
+      href: https://twitter.com/rladiesmelb
+    - icon: fab fa-meetup
+      href: https://www.meetup.com/en-AU/rladies-melbourne/
+    - icon: fab fa-youtube
+      href: https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow
+    - icon: fab fa-linkedin
+      href: https://linkedin.com/company/r-ladies-melbourne
+output: distill::distill_article

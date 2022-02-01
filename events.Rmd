@@ -1,0 +1,9 @@
+---
+title: "Events"
+description: |
+  For our past events, visit our [Github repo](https://github.com/R-LadiesMelbourne/Links-to-Events-Repos)
+twitter:
+  creator: "@RLadiesMelb"
+preview: img/rladieslogo-koala-hex.png
+listing: events 
+---

@@ -1,0 +1,171 @@
+
+/* base variables */
+
+/* Edit the CSS properties in this file to create a custom
+   Distill theme. Only edit values in the right column
+   for each row; values shown are the CSS defaults.
+   To return any property to the default,
+   you may set its value to: unset
+   All rows must end with a semi-colon.                      */
+
+/* Optional: embed custom fonts here with `@import`          */
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Hind:wght@300&family=Lato:wght@300;400&display=swap');
+
+/* This must remain at the top of this file.                 */
+
+
+/* font-family: 'Abel', sans-serif;
+font-family: 'Hind', sans-serif;
+font-family: 'Lato', sans-serif;*/
+
+
+html {
+  /*-- Main font sizes --*/
+  --title-size:      30px;      /*edited*/
+  --body-size:       0.9rem;    /*edited*/
+  --code-size:       0.8rem;      /*edited*/
+  --aside-size:      12px;
+  --fig-cap-size:    13px;
+  /*-- Main font colors --*/
+  --title-color:     #9d57a6;     /*edited*/
+  --header-color:    rgba(0, 0, 0, 0.8);
+  --body-color:      rgba(0, 0, 0, 0.8);
+  --aside-color:     rgba(0, 0, 0, 0.6);
+  --fig-cap-color:   rgba(0, 0, 0, 0.6);
+  /*-- Specify custom fonts ~~~ must be imported above   --*/
+  --heading-font:    'Abel', sans-serif;      /*edited*/
+  --mono-font:       'Hind', monospace;       /*edited*/
+  --body-font:       'Abel', sans-serif;      /*edited*/
+  --navbar-font:     sans-serif;  /* websites + blogs only */
+}
+
+/*-- ARTICLE METADATA --*/
+d-byline {
+  --heading-size:    0.6rem;
+  --heading-color:   #9d57a6; /*rgba(0, 0, 0, 0.5);*/     /*edited*/
+  --body-size:       0.8rem;
+  --body-color:      rgba(0, 0, 0, 0.8);
+}
+
+/*-- ARTICLE TABLE OF CONTENTS --*/
+.d-contents {
+  --heading-size:    18px; 
+  --contents-size:   13px; 
+}
+
+/*-- ARTICLE APPENDIX --*/
+d-appendix {
+  --heading-size:    15px;      
+  --heading-color:   rgba(0, 0, 0, 0.65);
+  --text-size:       0.8em;
+  --text-color:      rgba(0, 0, 0, 0.5);
+}
+
+/*-- WEBSITE HEADER + FOOTER --*/
+/* These properties only apply to Distill sites and blogs  */
+
+.distill-site-header {
+  --title-size:       18px;
+  --text-color:       #9d57a6; /*dark purple option #5e3463; /*edited*/
+  --text-size:        15px;
+  --hover-color:      #5e3463;      /*edited*/
+  --bkgd-color:       #fff;   /*edited*/
+}
+
+.distill-site-footer {
+  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-size:        12px;       /*edited*/
+  --hover-color:      white;
+  --bkgd-color:       #5e3463;    /*edited*/
+}
+
+/*-- Additional custom styles --*/
+/* Add any additional CSS rules below                      */
+
+/* Buttons on home page wide screen */
+
+.btn-outline-dark {
+    background-color: #5e3463;
+    color: white;
+    border: 0px;
+}
+
+.btn-outline-dark:hover {
+    background-color: #9d57a6;      /*edited*/
+}
+
+/* Buttons on home page narrow screen */
+.list-group-item {
+   color: white;
+   background-color: #5e3463;
+   border-color: #5e3463;
+ }
+
+.list-group-item:hover {
+    background-color: #9d57a6;
+    border-color:#9d57a6;
+    color: white;
+    border: 0px;
+ }
+
+/* Links - needed for postcard homepage */
+
+a {
+    color: #9d57a6;
+    border-bottom: 0px;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #5e3463;
+    font-weight: 500;
+    border-color: #5e3463;
+}
+
+/* Modifications to distill article css */
+
+/* Uncomment the below for colored header
+
+d-title {
+  background-color: #5e3463;
+  color: white;
+}
+
+d-byline {
+  background-color: #ded6df;
+}
+*/
+
+d-article p code {
+  color: #9d57a6; /* #383838; */
+  background: #ded6df; 
+  font-weight: 400;
+  font-size: 0.9em;
+}
+
+d-article a {
+    color: #9d57a6;
+    border-bottom: 2px solid #9d57a6; 
+    text-decoration: none;
+}
+
+/* styling for icon-link buttons (see distilltools::icon_link()) */
+.icon-link {
+    background-color: transparent;
+    color: #9d57a6;
+    border: 1px solid;
+    border-color: #9d57a6;
+    padding: 5px .4rem 5px .4rem;
+    /*margin: 4px;*/
+    margin-top: 4px;
+    margin-right: 8px;
+    margin-bottom: 4px;
+    border-radius: 5px; /* Rounded edges */
+}
+
+.icon-link:hover {
+    background-color: #9d57a6;
+    border-color: #9d57a6;
+    color: white;
+}

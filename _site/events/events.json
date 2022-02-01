@@ -1,0 +1,19 @@
+[
+  {
+    "path": "events/2022-02-04-rmd-automate-cv/",
+    "title": "Automate your CV using R Markdown: Easy as 1, 2, knit",
+    "description": "The first R-Ladies meetup of 2022! A workshop for building your CV using R Markdown and the R packages `datadrivencv`, `pagedown` & `vitae`.",
+    "author": [
+      {
+        "name": "Shazia Ruybal-Pesántez",
+        "url": "https://shaziaruybal.com"
+      }
+    ],
+    "date": "2022-02-04",
+    "categories": [],
+    "contents": "\n\n\n\n\n\n\n\n Register Slides and materials Youtube video\n\nAbout the event:\nWe are very excited to announce R Ladies Melbourne’s first event of 2022! This event will be presented by Dr. Shazia Ruybal-Pesántez, R Ladies Melbourne President and Postdoctoral Research Scientist at WEHI and Burnet Institute.\nUpdating your CV can be a tedious, but very necessary task! Most often this process involves creating and updating a user-created template in e.g. a Word document and fiddling with formatting for longer than one would like to admit, especially when it is time to update the content. With R Markdown, you can quickly turn your CV into a beautiful, automated document that is easy to produce, maintain and update to suit your specific needs. With this automated approach, the only thing you really have to worry about and devote your time to is writing the content.\nIn this talk, Shazia will take you through the R packages datadrivencv, pagedown and vitae that can be used with R Markdown to create and automate your CV. The aim is to guide you through how to save your data in a readable format for these packages, how to set up your R Markdown document, and how to render the output in different formats, all so that you can automate your pipeline to quickly and easily update your CV! This talk should give you sufficient information and materials that you can customize and either follow along during the talk or create your CV on your own after the talk.\n Event details:\nThis will be an online event. Please connect to the zoom session at 12pm Melbourne time (AEDT) on Friday the 4th of February. Register here\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-01-31T22:12:30-05:00",
+    "input_file": {}
+  }
+]

@@ -1,0 +1,11 @@
+---
+title: "Our committee"
+description: |
+  Meet our 2021-2022 R-Ladies Melbourne Inc commitee!
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](img/commitee_temporarypic.png)

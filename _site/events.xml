@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>R-Ladies Melbourne Inc</title>
+    <link>/</link>
+    <atom:link href="/events.xml" rel="self" type="application/rss+xml"/>
+    <description>R-Ladies Melbourne Inc website
+</description>
+    <image>
+      <title>R-Ladies Melbourne Inc</title>
+      <url>/img/rladieslogo-koala-hex.png</url>
+      <link>/</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Automate your CV using R Markdown: Easy as 1, 2, knit</title>
+      <dc:creator>Shazia Ruybal-Pesántez</dc:creator>
+      <link>/events/2022-02-04-rmd-automate-cv</link>
+      <description>The first R-Ladies meetup of 2022! A workshop for building your CV using R Markdown and the R packages `datadrivencv`, `pagedown` &amp; `vitae`.</description>
+      <guid>/events/2022-02-04-rmd-automate-cv</guid>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

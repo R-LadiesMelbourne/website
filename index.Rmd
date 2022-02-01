@@ -1,0 +1,42 @@
+---
+title: "Welcome! 🐨💜"
+image: "img/rladieslogo-koala-hex.png"
+links:
+  - label: '<i class="fab fa-twitter"></i>'
+    url: "https://twitter.com/RLadiesMelb"
+  - label: '<i class="fab fa-github"></i>'
+    url: "https://github.com/R-LadiesMelbourne"
+  - label: '<i class="fab fa-meetup"></i>'
+    url: "https://www.meetup.com/en-AU/rladies-melbourne/"
+  - label: '<i class="fab fa-youtube"></i>'
+    url: h"ttps://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow"
+  - label: '<i class="fab fa-linkedin"></i>'
+    url: "https://linkedin.com/company/r-ladies-melbourne"
+  - label: '<i class="fas fa-envelope"></i>'
+    url: "mailto:rladiesmelbourne@gmail.com"
+preview: img/rladieslogo-koala-hex.png
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+## Who we are
+
+We are a registered non-profit organization and a local chapter of [R-Ladies Global](https://rladies.org/). Our aim is to promote gender diversity in the R community, both in Australia and worldwide. We are proudly a community of over 2000 members! 
+
+R-Ladies Melbourne Inc welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing.
+
+Meet our 2021-2022 commitee [here](/committee.html).
+
+## What we do
+
+We host regular meet-ups, usually once or twice a month. We cover a range of topics from intro to advanced - for more information, visit our [events page](/events.html). For our upcoming events make sure you check out our [Meetup page](https://www.meetup.com/en-AU/rladies-melbourne/). You can also view most of our event recordings at our [Youtube channel](https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow).
+
+## Join our community
+
+Follow us and join our vibrant online community on Twitter @[RLadiesMelb](https://twitter.com/RLadiesMelb) to stay up-to-date with our events and activities. We are always on the look out for speakers so do get in touch if you are interested!
+
+## Our sponsors
+IMAGE WITH LOGOS
+
+And special thanks to Roberto Bonelli for creating our gorgeous logo. 
