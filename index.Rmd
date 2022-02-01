@@ -30,7 +30,7 @@ Meet our 2021-2022 commitee [here](/committee.html).
 
 ## What we do
 
-We host regular meet-ups, usually once or twice a month. We cover a range of topics from intro to advanced - for more information, visit our [events page](/events.html). For our upcoming events make sure you check out our [Meetup page](https://www.meetup.com/en-AU/rladies-melbourne/). You can also view most of our event recordings at our [Youtube channel](https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow).
+We host regular meet-ups, usually once or twice a month. We cover a range of topics from intro to advanced - for more information, visit our [events page](/events.html). You can also find slides and materials from our past events at our [Github page](https://github.com/R-LadiesMelbourne) and view most of our event recordings on our [Youtube channel](https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow).
 
 ## Join our community
 
