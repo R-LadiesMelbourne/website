@@ -19,8 +19,8 @@ library(distilltools)
 #                      slug = "rmd-automate-cv",
 #                      date = "2022-02-04")
 
-distilltools::create_talk(title = "Automate your CV using R Markdown: Easy as 1, 2, knit",
+distilltools::create_talk(title = "AI Ethics Workshop with Laura Summers",
                           collection = "events",
-                          author = "Shazia Ruybal-Pesántez",
-                          slug = "rmd-automate-cv",
-                          date = "2022-02-04")
+                          author = "Laura Summers",
+                          slug = "ai-workshop",
+                          date = "2022-02-28")

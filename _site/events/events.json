@@ -1,5 +1,22 @@
 [
   {
+    "path": "events/2022-02-28-ai-workshop/",
+    "title": "AI Ethics Workshop with Laura Summers",
+    "description": "Joint event between R-Ladies Melbourne and Women in Machine Learning & Data Science (WiMLDS) Melbourne",
+    "author": [
+      {
+        "name": "Laura Summers",
+        "url": "https://twitter.com/summerscope?lang=en"
+      }
+    ],
+    "date": "2022-02-28",
+    "categories": [],
+    "contents": "\n\n\n\n\n Register Slides and materials Youtube video\n\nAbout the event:\nFor our next event we are very excited to host a joint event between R-Ladies Melbourne and Women in Machine Learning & Data Science (WiMLDS) Melbourne.\nThe event will feature the fabulous Laura Summers (she/her), a local expert in AI ethics. Laura is a multi-disciplinary designer researching technology ethics and building tools to promote fair machine learning. She’s the founder of debias.ai, the human behind Ethics Litmus Tests, fairXiv, and the Melbourne Fair ML reading group. Laura is passionate about feminism, digital rights and designing for privacy. She speaks, writes and runs workshops at the intersection of design and technology. You can follow Laura and her work on Twitter at @summerscope or via her website.\nTalk abstract\nLaura will kick us off with a quick survey of the state of the field, including jobs to do, thinking tools, tech tools, and ethical frameworks. We’ll spend most of our time with a hands-on activity, testing and formalising our ethical intuitions and doing practical risk assessments. All levels of data literacy and machine learning knowledge are welcome, especially as (spoiler alert) most of the problems we create with automation and models are amplifying existing social inequality, rather than creating a new class of problem.\n Event details:\nThis will be an online event. Please connect to the zoom session at 5:30pm Melbourne time (AEDT) on Friday the 28th of February. Register here\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-07-18T18:19:00+10:00",
+    "input_file": "ai-workshop.knit.md"
+  },
+  {
     "path": "events/2022-02-04-rmd-automate-cv/",
     "title": "Automate your CV using R Markdown: Easy as 1, 2, knit",
     "description": "The first R-Ladies meetup of 2022! A workshop for building your CV using R Markdown and the R packages `datadrivencv`, `pagedown` & `vitae`.",

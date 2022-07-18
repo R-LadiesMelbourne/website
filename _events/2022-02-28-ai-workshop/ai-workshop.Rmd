@@ -1,0 +1,50 @@
+---
+title: "AI Ethics Workshop with Laura Summers"
+description: |
+  Joint event between R-Ladies Melbourne and Women in Machine Learning & Data Science (WiMLDS) Melbourne
+author: 
+  - name: Laura Summers
+    url: https://twitter.com/summerscope?lang=en
+    affiliation: Explosion AI
+    affiliation_url: "https://twitter.com/explosion_ai"
+date: 2022-02-28
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r libraries}
+library(distilltools)
+```
+```{r}
+icon_link(icon = "fab fa-meetup",
+          text = "Register",
+          url = "https://www.meetup.com/rladies-melbourne/events/283783747/")
+
+icon_link(icon = "fab fa-github",
+          text = "Slides and materials",
+          url = "https://github.com/R-LadiesMelbourne/2022-02-28-AI-Ethics-Workshop-Laura-Summers")
+
+icon_link(icon = "fas fa-play-circle",
+          text = "Youtube video",
+          url = "https://www.youtube.com/watch?v=j2cH7JWIUcI")
+```
+
+
+### About the event:
+For our next event we are very excited to host a joint event between R-Ladies Melbourne and [Women in Machine Learning & Data Science (WiMLDS) Melbourne](https://www.meetup.com/Melbourne-Women-in-Machine-Learning-and-Data-Science/).
+
+The event will feature the fabulous Laura Summers (she/her), a local expert in AI ethics. Laura is a multi-disciplinary designer researching technology ethics and building tools to promote fair machine learning.
+She's the founder of debias.ai, the human behind Ethics Litmus Tests, fairXiv, and the Melbourne Fair ML reading group. Laura is passionate about feminism, digital rights and designing for privacy. She speaks, writes and runs workshops at the intersection of design and technology. You can follow Laura and her work on Twitter at @summerscope or via her website.
+
+**Talk abstract**
+
+Laura will kick us off with a quick survey of the state of the field, including jobs to do, thinking tools, tech tools, and ethical frameworks. We'll spend most of our time with a hands-on activity, testing and formalising our ethical intuitions and doing practical risk assessments. All levels of data literacy and machine learning knowledge are welcome, especially as (spoiler alert) most of the problems we create with automation and models are amplifying existing social inequality, rather than creating a new class of problem.
+
+### <i class="fab fa-meetup"></i> Event details: 
+
+This will be an online event. Please connect to the zoom session at 5:30pm Melbourne time (AEDT) on Friday the 28th of February. [Register here](https://www.meetup.com/rladies-melbourne/events/283783747/)

@@ -12,7 +12,15 @@
       <link>/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 04 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>AI Ethics Workshop with Laura Summers</title>
+      <dc:creator>Laura Summers</dc:creator>
+      <link>/events/2022-02-28-ai-workshop</link>
+      <description>Joint event between R-Ladies Melbourne and Women in Machine Learning &amp; Data Science (WiMLDS) Melbourne</description>
+      <guid>/events/2022-02-28-ai-workshop</guid>
+      <pubDate>Sun, 27 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Automate your CV using R Markdown: Easy as 1, 2, knit</title>
       <dc:creator>Shazia Ruybal-Pesántez</dc:creator>
